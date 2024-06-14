@@ -16,5 +16,6 @@ func (c *checkHealthUC) GetVersion() (string, error) {
 	if err != nil {
 		return "", err
 	}
+
 	return version, nil
 }

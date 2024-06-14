@@ -18,7 +18,7 @@ func NewCheckHealthRepository(db *sql.DB) checkHealth.CheckHealthRepository {
 // RetrieveVersion is a function to retrieve version
 func (c *checkHealthRepository) RetrieveVersion() (string, error) {
 	//get data from table version_app
-	version, query := "", "SELECT version FROM version_app"
+	version, query := "", "SELECT version,created_at FROM version_app"
 	if err := c.db.QueryRow(query).Scan(&version); err != nil {
 		return "", err
 	}

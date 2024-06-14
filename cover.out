@@ -4,11 +4,11 @@ clean-code-unit-test/src/checkHealth/checkHealthDelivery/checkHealthDelivery.go:
 clean-code-unit-test/src/checkHealth/checkHealthDelivery/checkHealthDelivery.go:25.60,27.16 2 1
 clean-code-unit-test/src/checkHealth/checkHealthDelivery/checkHealthDelivery.go:27.16,30.3 2 1
 clean-code-unit-test/src/checkHealth/checkHealthDelivery/checkHealthDelivery.go:31.2,31.62 1 1
-clean-code-unit-test/src/checkHealth/checkHealthUsecase/checkHealthUsecase.go:9.110,11.2 1 1
-clean-code-unit-test/src/checkHealth/checkHealthUsecase/checkHealthUsecase.go:14.54,16.16 2 1
-clean-code-unit-test/src/checkHealth/checkHealthUsecase/checkHealthUsecase.go:16.16,18.3 1 1
-clean-code-unit-test/src/checkHealth/checkHealthUsecase/checkHealthUsecase.go:19.2,19.21 1 1
 clean-code-unit-test/src/checkHealth/checkHealthRepository/checkHealthRepository.go:14.77,16.2 1 1
 clean-code-unit-test/src/checkHealth/checkHealthRepository/checkHealthRepository.go:19.67,22.60 2 1
 clean-code-unit-test/src/checkHealth/checkHealthRepository/checkHealthRepository.go:22.60,24.3 1 1
 clean-code-unit-test/src/checkHealth/checkHealthRepository/checkHealthRepository.go:26.2,26.21 1 1
+clean-code-unit-test/src/checkHealth/checkHealthUsecase/checkHealthUsecase.go:9.110,11.2 1 1
+clean-code-unit-test/src/checkHealth/checkHealthUsecase/checkHealthUsecase.go:14.54,16.16 2 1
+clean-code-unit-test/src/checkHealth/checkHealthUsecase/checkHealthUsecase.go:16.16,18.3 1 0
+clean-code-unit-test/src/checkHealth/checkHealthUsecase/checkHealthUsecase.go:20.2,20.21 1 1
